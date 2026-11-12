@@ -1,0 +1,6 @@
+{
+  "name": "The Last Signal",
+  "description": "An interactive psychological horror experience featuring an abandoned digital world, mysterious audio signals, puzzles, an unknown AI entity, classified archives, and a transmission link preview scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
